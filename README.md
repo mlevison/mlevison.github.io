@@ -1,2 +1,0 @@
-# mlevison.github.io
-ScrumCoachInBox
